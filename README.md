@@ -50,7 +50,7 @@ An end-to-end data analysis pipeline built in Python to analyze historical Bitco
 
 ## 📈 Portfolio Visualizations
 
-###  1. Initial 100-Day Performance (Bitcoin Candlestick Chart)
+###  1. The Initial 100-Day Performance (Bitcoin Candlestick Chart)
 ![Bitcoin Candlestick Chart](Bitcoin Candlestick chart.png)
 
 ### 2. Historical Macro Trends (Weekly Resampled Bitcoin Candlestick Chart)
