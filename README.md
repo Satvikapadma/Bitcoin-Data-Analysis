@@ -51,22 +51,22 @@ An end-to-end data analysis pipeline built in Python to analyze historical Bitco
 ## 📈 Portfolio Visualizations
 
 ###  1. Initial 100-Day Performance (Bitcoin Candlestick Chart)
-![Bitcoin Candlestick Chart](Bitcoin Candlestick chart.png)
+![Bitcoin Candlestick Chart](Bitcoin_Candlestick_chart.png)
 
 ### 2. Historical Macro Trends (Weekly Resampled Bitcoin Candlestick Chart)
-![Weekly Trends Candlestick](Bitcoin weekly trends Candlestick Chart.png)
+![Weekly Trends Candlestick](Bitcoin_weekly_trends_Candlestick_Chart.png)
 
 ### 3. Rolling Volatility Analysis (30-day vs. 90-day Line Plot)
-![Bitcoin Volatility Over Time](Bitcoin volatility over time.png)
+![Bitcoin Volatility Over Time](Bitcoin_volatility_over_time.png)
 
 ### 4. Portfolio Growth ($100,000 Investment Track)
-![Investment Growth Line Chart](1 Lakh Investment Growth in Bitcoin.png)
+![Investment Growth Line Chart](1_Lakh_Investment_Growth_in_Bitcoin.png)
 
 ### 5. Worst Market Crash Days in History (Bar Plot)
-![Historical Crash Days](Bitcoin Worst Crash Days in History.png)
+![Historical Crash Days](Bitcoin_Worst_Crash_Days_in_History.png)
 
 ### 6. Annual Return Comparison (Best vs. Worst Calendar Years)
-![Yearly Returns Bar Chart](Bitcoin Yearly Returns Best vs Worst Years.png)
+![Yearly Returns Bar Chart](Bitcoin_Yearly_Returns_Best_vs_Worst_Years.png)
 
 ---
 
